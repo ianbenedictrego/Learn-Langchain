@@ -16,3 +16,6 @@ scikit-learn
 
 # For UI
 streamlit
+
+#Gemini
+langchain-google-genai
